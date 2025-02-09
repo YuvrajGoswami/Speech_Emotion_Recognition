@@ -1,7 +1,7 @@
 # Speech_Emotion_Recognition 🚀🎵
 ## Welcome to my project! 🎉 🚀 ✨  
 This project is prepared to classify the audio files into specific emotions. 🎵  
-There has been different kinds of datasets used in this project like ## Ravdess, ## Crema, ## Tess, ## Savee. All of these datasets contain different kinds of audio files and their corresponding emotions.   
+There has been different kinds of datasets used in this project like **Ravdess**, **Crema**, **Tess**, **Savee**. All of these datasets contain different kinds of audio files and their corresponding emotions.   
 To implement the project all of these datasets has been merged into a single dataset.  
 After merged them to a single dataset, data analysis is done with the help of data visualization to identify some factors.  
 Different kinds of preprocessing steps has been taken to preprocess the data like adding some noise, stretching, audio shifting and pitch in the existing audio files to help in classifying the audio.  
